@@ -1,2 +1,11 @@
-# Folder for the Unity project.
+# jekyll
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+Gemfile
+Gemfile.lock
+
+# Unity project files
 Project
