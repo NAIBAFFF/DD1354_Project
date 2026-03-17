@@ -17,3 +17,18 @@ By gradually figuring out how the Unity `GameObject` functions and how to work w
 ![first_version](./images/project_first_version.png)
 
 Whilst the graphis won't improve much past this (I might find some nicer models) there will be some better simulations coming up; next task will be to implement the data collection methods of Ballerini et al. paper!
+
+## 2026-03-12
+
+Apart from pushing up yesterdays update, I have worked on understanding the math behind the paper I use as a basis for my project (Empirical investigation of starling flocks: a benchmark study in collective animal behaviour) and implementing said math in order to do actual comparisons!
+
+A lot of the math is fairly advanced to implement with an effective algorithm, but I'll try to implement it on my own (Complex Hull, Minimum Boundry Box). Conceptually, it is fairly simple; especially he boundry boxes, but it is complicated by Unity not doing it in the "correct" way by default.
+
+## 2026-03-14
+
+In spite of my best efforts, I have had to throw in the towel on implementing the algorithms on my own; quite simply not enough time left! Some more positive notes, I have gotten the simulation working properly with some graphics that look a bit better than the first version:
+
+![new_graphics](./images/project_new_graphics.png)
+
+Rather than spend more time to maybe get my simulations to run better (even if it does run decently) I will be spending more time on the report to compensate.
+
